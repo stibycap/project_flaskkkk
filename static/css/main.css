@@ -1,0 +1,14 @@
+header {
+    position: sticky;
+    top: 0;
+    padding: 50px;
+    z-index: 1000;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+
+}
+.avatarka__img {
+    height: 100px;
+    width: 100px;
+}
